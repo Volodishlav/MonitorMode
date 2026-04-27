@@ -17,7 +17,7 @@ A simple Python CLI tool to enable and manage wireless monitor mode using airmon
 ### ⚙️ Requirements
 
 - Python 3.x  
-- aircrack-ng installed  
+- Aircrack-ng installed  
 - Root privileges  
 
 ---
